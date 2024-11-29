@@ -6,4 +6,4 @@ permalink: /
 
 # Amith Mihiranga 
 
-I'm as software engineer who is passionate about coding.
+I'm as software engineer who loves programming. I'm profient in Java & Python.
