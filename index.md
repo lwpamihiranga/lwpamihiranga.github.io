@@ -6,7 +6,7 @@ permalink: /
 
 # Amith Mihiranga 
 
-I'm as software engineer who loves programming. I've 4 years of professional experience in building web applications and services, including experience in building serverless and cloud native solution on AWS. 
+I'm software engineer who loves programming. I've 4 years of professional experience in building web applications and services, including experience in building serverless and cloud native solution on AWS. 
 
 I'm proficient in Python & Go. I have written fair amount of JavaScript, SQL, and Java. I'm a quick learner and can pick up anything as needed.
 
