@@ -8,7 +8,7 @@ permalink: /
 
 I'm a software engineer who loves programming. I've 4 years of professional experience in building web applications and services, including experience in building serverless and cloud native solutions on AWS. 
 
-I'm proficient in Python, and JavaScript. I'm a quick learner and can pick up anything as needed.
+I'm proficient in Python, JavaScript, and TypeScript. I'm a quick learner and can pick up anything as needed.
 
 I also have experience in using Java, Go, Terraform, Ansible, Linux, and Bash Scripting.
 
