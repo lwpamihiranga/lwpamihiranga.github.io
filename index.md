@@ -17,3 +17,5 @@ I also have experience in using JavaScript, Terraform, Ansible, Linux, and Bash 
 - GitHub: [https://github.com/lwpamihiranga](https://github.com/lwpamihiranga){:target="_blank"}
 
 - Email: [lwpamihiranga@gmail.com](mailto:lwpamihiranga@gmail.com)
+
+{% include footer.html %}
