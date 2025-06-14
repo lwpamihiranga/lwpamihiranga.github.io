@@ -10,7 +10,7 @@ I'm a software engineer who loves programming. I've 4 years of professional expe
 
 I'm proficient in Python, JavaScript, and AWS. I'm a quick learner and can pick up anything as needed.
 
-I also have experience in using Golang, TypeScript, Terraform, Ansible, Linux, and Bash Scripting.
+I also have experience in using Golang, Terraform, and Linux.
 
 - LinkedIn: [https://www.linkedin.com/in/lwpamihiranga](https://www.linkedin.com/in/lwpamihiranga){:target="_blank"}
 
